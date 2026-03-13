@@ -1,0 +1,4 @@
+[submodule "freeciv-src"]
+	path = freeciv-src
+	url = https://github.com/freeciv/freeciv.git
+	branch = S3_2
