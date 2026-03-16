@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/freeciv/__init__.py
+src/freeciv/config.py
+src/freeciv/connection.py
+src/freeciv/parsers.py
+src/freeciv/protocol.py
+src/freeciv/state.py
+src/freeciv_client.egg-info/PKG-INFO
+src/freeciv_client.egg-info/SOURCES.txt
+src/freeciv_client.egg-info/dependency_links.txt
+src/freeciv_client.egg-info/requires.txt
+src/freeciv_client.egg-info/top_level.txt
